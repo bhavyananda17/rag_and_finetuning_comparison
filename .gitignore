@@ -1,0 +1,27 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environments
+venv/
+.venv/
+
+# macOS
+.DS_Store
+
+# Model outputs
+lora_adapter/
+*.bin
+*.pt
+*.safetensors
+
+# Evaluation output
+evaluation/results.csv
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/settings.json
