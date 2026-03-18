@@ -1,0 +1,1 @@
+This is a test document. It contains some text. It will be loaded and chunked. Wait, let me make it longer so that it gets chunked. We need about 400 characters to make it chunk exactly once, maybe. I think this will be enough to verify it works basically. Actually I don't care about the chunks content if the functions are logically correct.
